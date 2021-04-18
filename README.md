@@ -48,9 +48,9 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
-<h3 align="center">
+<h2 align="center">
   Authors  
-</h3>
+</h2>
 
 ## 
 
