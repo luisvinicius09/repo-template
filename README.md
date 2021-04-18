@@ -1,11 +1,19 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microverse-blueviolet">
+</p>
+  
+<h1 align="center">
+  Project Name
+</h1>
 
-# Project Name
+<h4 align="center">
+  One paragraph statement about the project.
+</h4>
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
+<p align="center">
+  <img src="./app_screenshot.png">
+</p>
+  
 Additional description about the project and its features.
 
 ## Built With
