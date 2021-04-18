@@ -48,20 +48,39 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
+<h3 align="center">
+  Authors  
+</h3>
 
-## Authors
+## 
 
-👤 **Author1**
+<p align="center">
+  <strong>Author1 👤</strong>  
+</p>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+<p align="center">
+  GitHub: <a href="https://github.com/githubhandle">@githubhandle</a>
+</p>
+<p align="center">
+  Twitter: <a href="https://twitter.com/twitterhandle">@twitterhandle</a>  
+</p>
+<p align="center">
+  LinkedIn: <a href="https://linkedin.com/linkedinhandle">LinkedIn</a>
+</p>
 
-👤 **Author2**
+<p align="center">
+  <strong>Author2 👤</strong>  
+</p>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+<p align="center">
+  GitHub: <a href="https://github.com/githubhandle">@githubhandle</a>
+</p>
+<p align="center">
+  Twitter: <a href="https://twitter.com/twitterhandle">@twitterhandle</a>  
+</p>
+<p align="center">
+  LinkedIn: <a href="https://linkedin.com/linkedinhandle">LinkedIn</a>
+</p>
 
 ## 🤝 Contributing
 
