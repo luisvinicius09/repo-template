@@ -52,8 +52,6 @@ To get a local copy up and running follow these simple example steps.
   Authors  
 </h2>
 
-## 
-
 <p align="center">
   <strong>Author1 👤</strong>  
 </p>
