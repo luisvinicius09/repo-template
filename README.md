@@ -48,8 +48,28 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
+
 <h2 align="center">
-  Authors  
+  Author(s)  
 </h2>
 
 <p align="center">
@@ -79,23 +99,3 @@ To get a local copy up and running follow these simple example steps.
 <p align="center">
   LinkedIn: <a href="https://linkedin.com/linkedinhandle">LinkedIn</a>
 </p>
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
